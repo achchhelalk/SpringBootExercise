@@ -76,6 +76,9 @@
 		<script src="${js}/bootstrap.min.js"></script>
 		<!-- self coded java script -->
 		<script src="${js}/myapp.js"></script>
+		<!-- j query data table plug in-->
+		<script src="${js}/jquery.dataTables.js"></script>
+		
 	</div>
 </body>
 
