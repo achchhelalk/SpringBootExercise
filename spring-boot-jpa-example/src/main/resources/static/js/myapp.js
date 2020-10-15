@@ -15,7 +15,7 @@ $(function(){
 		break;
 	}
 	
-	//code query for dattable
+	//code query for data Table
 	var products =[
 		
 		['1','ABC','100.00', '2','Yes'],
